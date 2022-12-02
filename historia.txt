@@ -1,0 +1,7 @@
+historia.txt
+
+este es un primer cambio
+
+este es un segundo cambio , commit
+
+este es un tercer cambio
