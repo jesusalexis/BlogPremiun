@@ -6,4 +6,6 @@ este es un segundo cambio , commit aplicamos un cambio mas.... por las dudas.
 
 este es un tercer cambio, este es un cambio para validad la estaturaa
 
-este es otro cambio que necesito registrar
+este es otro cambio que necesito registrar.
+
+historia de vida
